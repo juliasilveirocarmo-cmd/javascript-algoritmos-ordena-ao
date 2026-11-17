@@ -11,3 +11,4 @@ for (let atual = 0; atual < livros.length - 1; atual++) {
   livros[atual] = livroMenorPreco
   livros[menor] = livroAtual
 }
+console.log(livros)
